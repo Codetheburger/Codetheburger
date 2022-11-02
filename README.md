@@ -1,12 +1,12 @@
 
 # Hello, I'm The Detective of tech! 👋
-
+Demo account created by [@Theselaw](https://github.com/theselaw)
 
 ## 🚀 About Me
 I'm a full stack developer and a friendly person to be with .
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omosaye-moses-0204b6191)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theselaw)
 
 
